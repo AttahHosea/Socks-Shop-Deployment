@@ -1,1 +1,2 @@
 # **Deploying Socks Shop Microservices-based Application on Kubernetes using IaaC**
+I am unable to complete this project for now due to circumstances I have explained in the numerous emails and direct messages I have sent to AltSchool. I hope you see this and consider my application for a deferment. Thank you. 
