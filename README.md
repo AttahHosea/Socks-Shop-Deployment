@@ -1,1 +1,1 @@
-# Socks-Shop-Deployment
+# **Deploying Socks Shop Microservices-based Application on Kubernetes using IaaC**
